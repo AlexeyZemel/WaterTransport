@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Server",
+    "\\Server\\WaterTransportService.Api",
+    "\\Server\\WaterTransportService.Tests"
+  ],
+  "SelectedNode": "\\Server\\WaterTransportService.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
