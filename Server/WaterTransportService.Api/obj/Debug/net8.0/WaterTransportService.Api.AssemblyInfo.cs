@@ -15,7 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterTransportService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f186409d08682a909709d2c5484c84334df1b71d")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e377388705cdddb60bb06318a8ebc4cdc8058d8")]
+>>>>>>> 40b1a9f4074f9badc622ba95f15584af5b9f10dc
 [assembly: System.Reflection.AssemblyProductAttribute("WaterTransportService.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterTransportService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
